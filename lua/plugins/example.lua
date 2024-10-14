@@ -23,6 +23,9 @@ return {
     },
     -- See Commands section for default commands if you want to lazy load on them
   },
+
+  { "github/copilot.vim" },
+
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
